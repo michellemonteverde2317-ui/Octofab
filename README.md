@@ -1,4 +1,4 @@
-.# Octofab
+# Octofab
 A tool to turn awesome 3D printer/laser cutter/CNC milling web applications into standalone independent applications for use with Smoothieboard's on-board web interface, or on-line
 
 The basic process is : 
